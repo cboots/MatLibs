@@ -1,1 +1,3 @@
 * text=auto !eol
+Clustering/mykmeans.m -text
+Filtering/lpf_comp.m -text
