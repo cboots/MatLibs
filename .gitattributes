@@ -7,6 +7,7 @@ File/sloc.m -text
 File/slocDir.m -text
 Filtering/lpf_comp.m -text
 Graphics/drawGaussian3.m -text
+Graphics/plot_block.m -text
 HMM/forwardbackwardscaled.m -text
 HMM/guessHiddenStates.m -text
 HMM/train_hmm_model.m -text
@@ -14,6 +15,8 @@ IMU[!!-~]Tools/plot_imu_data.m -text
 Image[!!-~]Processing/alphamask.m -text
 Image[!!-~]Processing/load_png.m -text
 Learning/rank_error.m -text
+PathPlanning/astar.m -text
+PathPlanning/meam620utils.jar -text
 Quaternions/Quat2Vect.m -text
 Quaternions/QuatAvg.m -text
 Quaternions/QuatConj.m -text
