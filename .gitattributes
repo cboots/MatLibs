@@ -3,6 +3,7 @@ Clustering/mykmeans.m -text
 Figures/maximize.m -text
 Filtering/lpf_comp.m -text
 Graphics/drawGaussian3.m -text
+Graphics/rotplot.m -text
 IMU[!!-~]Tools/plot_imu_data.m -text
 Image[!!-~]Processing/alphamask.m -text
 Image[!!-~]Processing/load_png.m -text
