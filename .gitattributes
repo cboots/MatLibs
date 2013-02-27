@@ -1,5 +1,15 @@
 * text=auto !eol
 Clustering/mykmeans.m -text
+Figures/maximize.m -text
 Filtering/lpf_comp.m -text
+Graphics/drawGaussian3.m -text
+IMU[!!-~]Tools/plot_imu_data.m -text
 Image[!!-~]Processing/alphamask.m -text
 Image[!!-~]Processing/load_png.m -text
+Quaternions/Quat2Vect.m -text
+Quaternions/QuatAvg.m -text
+Quaternions/QuatConj.m -text
+Quaternions/QuatMul.m -text
+Quaternions/QuatToRot.m -text
+Quaternions/RotToQuat.m -text
+Quaternions/Vect2Quat.m -text
