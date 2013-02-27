@@ -1,11 +1,15 @@
 * text=auto !eol
 Clustering/mykmeans.m -text
 Figures/maximize.m -text
+Figures/plotnumeric.m -text
+Figures/rotplot.m -text
 File/sloc.m -text
 File/slocDir.m -text
 Filtering/lpf_comp.m -text
 Graphics/drawGaussian3.m -text
-Graphics/rotplot.m -text
+HMM/forwardbackwardscaled.m -text
+HMM/guessHiddenStates.m -text
+HMM/train_hmm_model.m -text
 IMU[!!-~]Tools/plot_imu_data.m -text
 Image[!!-~]Processing/alphamask.m -text
 Image[!!-~]Processing/load_png.m -text
