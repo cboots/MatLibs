@@ -26,3 +26,5 @@ Rotations/RPYtoRot_ZXY.m -text
 Rotations/RotToQuat.m -text
 Rotations/RotToRPY_ZXY.m -text
 Rotations/Vect2Quat.m -text
+Rotations/hat_map.m -text
+Rotations/vee_map.m -text
