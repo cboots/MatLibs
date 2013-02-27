@@ -1,3 +1,5 @@
 * text=auto !eol
 Clustering/mykmeans.m -text
 Filtering/lpf_comp.m -text
+Image[!!-~]Processing/alphamask.m -text
+Image[!!-~]Processing/load_png.m -text
