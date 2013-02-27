@@ -1,6 +1,8 @@
 * text=auto !eol
 Clustering/mykmeans.m -text
 Figures/maximize.m -text
+File/sloc.m -text
+File/slocDir.m -text
 Filtering/lpf_comp.m -text
 Graphics/drawGaussian3.m -text
 Graphics/rotplot.m -text
