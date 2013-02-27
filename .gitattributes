@@ -13,6 +13,7 @@ HMM/train_hmm_model.m -text
 IMU[!!-~]Tools/plot_imu_data.m -text
 Image[!!-~]Processing/alphamask.m -text
 Image[!!-~]Processing/load_png.m -text
+Learning/rank_error.m -text
 Quaternions/Quat2Vect.m -text
 Quaternions/QuatAvg.m -text
 Quaternions/QuatConj.m -text
