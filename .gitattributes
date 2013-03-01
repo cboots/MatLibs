@@ -1,5 +1,14 @@
 * text=auto !eol
 Clustering/mykmeans.m -text
+Decision[!!-~]Trees/binary_entropy.m -text
+Decision[!!-~]Trees/calc_dt_error.m -text
+Decision[!!-~]Trees/dt_choose_feature.m -text
+Decision[!!-~]Trees/dt_choose_feature_multi.asv -text
+Decision[!!-~]Trees/dt_choose_feature_multi.m -text
+Decision[!!-~]Trees/dt_train.m -text
+Decision[!!-~]Trees/dt_train_multi.m -text
+Decision[!!-~]Trees/dt_value.m -text
+Decision[!!-~]Trees/multi_entropy.m -text
 Figures/maximize.m -text
 Figures/plotnumeric.m -text
 Figures/rotplot.m -text
@@ -14,9 +23,11 @@ HMM/train_hmm_model.m -text
 IMU[!!-~]Tools/plot_imu_data.m -text
 Image[!!-~]Processing/alphamask.m -text
 Image[!!-~]Processing/load_png.m -text
+Learning/confusion.m -text
+Learning/make_xval_partition.m -text
 Learning/rank_error.m -text
-PathPlanning/astar.m -text
-PathPlanning/meam620utils.jar -text
+Path[!!-~]Planning/astar.m -text
+Path[!!-~]Planning/meam620utils.jar -text
 Rotations/Quat2Vect.m -text
 Rotations/QuatAvg.m -text
 Rotations/QuatConj.m -text
@@ -28,3 +39,4 @@ Rotations/RotToRPY_ZXY.m -text
 Rotations/Vect2Quat.m -text
 Rotations/hat_map.m -text
 Rotations/vee_map.m -text
+Text[!!-~]Output/sec2timestr.m -text
