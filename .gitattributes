@@ -3,7 +3,6 @@ Clustering/mykmeans.m -text
 Decision[!!-~]Trees/binary_entropy.m -text
 Decision[!!-~]Trees/calc_dt_error.m -text
 Decision[!!-~]Trees/dt_choose_feature.m -text
-Decision[!!-~]Trees/dt_choose_feature_multi.asv -text
 Decision[!!-~]Trees/dt_choose_feature_multi.m -text
 Decision[!!-~]Trees/dt_train.m -text
 Decision[!!-~]Trees/dt_train_multi.m -text
@@ -26,6 +25,11 @@ Image[!!-~]Processing/load_png.m -text
 Learning/confusion.m -text
 Learning/make_xval_partition.m -text
 Learning/rank_error.m -text
+Logistic[!!-~]Regression/lr_gradient.m -text
+Logistic[!!-~]Regression/lr_test.m -text
+Logistic[!!-~]Regression/lr_train.m -text
+Naive[!!-~]Bayes/nb_test.m -text
+Naive[!!-~]Bayes/nb_train.m -text
 Path[!!-~]Planning/astar.m -text
 Path[!!-~]Planning/meam620utils.jar -text
 Rotations/Quat2Vect.m -text
@@ -40,3 +44,4 @@ Rotations/Vect2Quat.m -text
 Rotations/hat_map.m -text
 Rotations/vee_map.m -text
 Text[!!-~]Output/sec2timestr.m -text
+Utils/propval.m -text
