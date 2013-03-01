@@ -1,4 +1,5 @@
 * text=auto !eol
+Data[!!-~]Processing/porterStemmer.m -text
 Figures/Graphics/drawGaussian3.m -text
 Figures/Graphics/plot_block.m -text
 Figures/maximize.m -text
