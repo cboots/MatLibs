@@ -8,6 +8,7 @@ Figures/rotplot.m -text
 Filtering/lpf_comp.m -text
 IMU[!!-~]Tools/plot_imu_data.m -text
 Image[!!-~]Processing/alphamask.m -text
+Image[!!-~]Processing/load_jpg.m -text
 Image[!!-~]Processing/load_png.m -text
 Learning/Clustering/mykmeans.m -text
 Learning/Decision[!!-~]Trees/binary_entropy.m -text
