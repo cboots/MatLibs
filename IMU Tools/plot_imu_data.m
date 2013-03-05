@@ -1,4 +1,5 @@
 function plot_imu_data(imu_ts, gyro_data, accel_data)
+%plot_imu_data(imu_ts, gyro_data, accel_data)
 
 ax(1) = subplot(2,1,1);
 ax(2) = subplot(2,1,2);
