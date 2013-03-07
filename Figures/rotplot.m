@@ -32,7 +32,8 @@ hold on;
 patch(xp(1,ifront), xp(2,ifront), xp(3,ifront), 'b');
 patch(xp(1,iback), xp(2,iback), xp(3,iback), 'r');
 
-line([0 accel_vect(1)], [0 accel_vect(2)], [0 accel_vect(3)], 'LineWidth', 5);
+plot_arrow([0 0 0], accel_vect);
+% line([0 accel_vect(1)], [0 accel_vect(2)], [0 accel_vect(3)], 'LineWidth', 5);
 hold off;
 
 axis(axes_handle, [-2 2 -2 2 -2 2]);
