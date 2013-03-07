@@ -11,7 +11,7 @@ ylabel(ax(1), 'Accel Force (g)')
 legend(ax(1), 'x', 'y', 'z')
 
 %Plot gyro
-plot(ax(2), imu_ts, gyro_data(3,:), imu_ts, gyro_data(1,:), imu_ts, gyro_data(2,:))
+plot(ax(2), imu_ts, gyro_data(1,:), imu_ts, gyro_data(2,:), imu_ts, gyro_data(3,:))
 xlabel(ax(2), 'time')
 ylabel(ax(2), 'Gyro Rate (rad/s)')
 legend(ax(2), 'x', 'y', 'z')

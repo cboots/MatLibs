@@ -16,8 +16,10 @@ function h = plot_arrow(p0,p1,h)
 %       plot_arrow(p0,p1)
 %
 
-%   Rentian Xiong 4-18-05
+%   Based on: Rentian Xiong 4-18-05
 %   $Revision: 1.0
+%   Modified and improved by Collin Boots
+%   2013-3-7
 if(nargin < 3)
     redraw = true;
 else
