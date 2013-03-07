@@ -8,7 +8,10 @@ Figures/maximize.m -text
 Figures/plotnumeric.m -text
 Figures/rotplot.m -text
 Filtering/lpf_comp.m -text
+IMU[!!-~]Tools/grav2rvec.m -text
+IMU[!!-~]Tools/gyroupdate.m -text
 IMU[!!-~]Tools/plot_imu_data.m -text
+IMU[!!-~]Tools/rpy2rvec.m -text
 Image[!!-~]Processing/alphamask.m -text
 Image[!!-~]Processing/load_jpg.m -text
 Image[!!-~]Processing/load_png.m -text
