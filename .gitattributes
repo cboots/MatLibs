@@ -1,5 +1,6 @@
 * text=auto !eol
 Data[!!-~]Processing/porterStemmer.m -text
+Figures/Graphics/circle.m -text
 Figures/Graphics/drawGaussian3.m -text
 Figures/Graphics/draw_rot_rect.m -text
 Figures/Graphics/plot_arrow.m -text
