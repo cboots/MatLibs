@@ -1,10 +1,7 @@
-function h = circle(x,y,r)
+function [x y] = circle(xc, yc, r)
 
-hold on
 th = 0:pi/50:2*pi;
-xunit = r * cos(th) + x;
-yunit = r * sin(th) + y;
-h = plot(xunit, yunit);
-hold off
+x = r * cos(th) + xc;
+y = r * sin(th) + yc;
 
 end
