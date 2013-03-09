@@ -73,6 +73,7 @@ Learning/make_xval_partition.m -text
 Learning/rank_error.m -text
 Path[!!-~]Planning/astar.m -text
 Path[!!-~]Planning/meam620utils.jar -text
+Rotations/HTInv.m -text
 Rotations/Quat2Vect.m -text
 Rotations/QuatAvg.m -text
 Rotations/QuatConj.m -text
