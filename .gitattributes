@@ -99,6 +99,8 @@ Rotations/Trans.m -text
 Rotations/Vect2Quat.m -text
 Rotations/hat_map.m -text
 Rotations/vee_map.m -text
+Utils/File/GetFullPath.c -text
+Utils/File/GetFullPath.mexw64 -text
 Utils/File/sloc.m -text
 Utils/File/slocDir.m -text
 Utils/String[!!-~]Functions/sec2timestr.m -text
