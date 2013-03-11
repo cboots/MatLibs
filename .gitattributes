@@ -1,5 +1,11 @@
 * text=auto !eol
 Data[!!-~]Processing/porterStemmer.m -text
+Figures/ErrorImages/error1.jpg -text
+Figures/ErrorImages/error2.jpg -text
+Figures/ErrorImages/error3.jpg -text
+Figures/ErrorImages/error4.jpg -text
+Figures/ErrorImages/error5.jpg -text
+Figures/ErrorImages/error6.jpg -text
 Figures/Graphics/circle.m -text
 Figures/Graphics/drawGaussian3.m -text
 Figures/Graphics/draw_rot_rect.m -text
@@ -8,6 +14,10 @@ Figures/Graphics/plot_arrow.m -text
 Figures/Graphics/plot_block.m -text
 Figures/Graphics/plot_circle.m -text
 Figures/Graphics/plot_pieslice.m -text
+Figures/display_error.m -text
+Figures/fill_container.m -text
+Figures/fit_container.m -text
+Figures/hide_tick_labels.m -text
 Figures/maximize.m -text
 Figures/plotnumeric.m -text
 Figures/rotplot.m -text
