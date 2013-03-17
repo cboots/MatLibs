@@ -9,6 +9,7 @@ Figures/ErrorImages/error6.jpg -text
 Figures/Graphics/circle.m -text
 Figures/Graphics/drawGaussian3.m -text
 Figures/Graphics/draw_rot_rect.m -text
+Figures/Graphics/draw_rot_tri.m -text
 Figures/Graphics/pie_slice.m -text
 Figures/Graphics/plot_arrow.m -text
 Figures/Graphics/plot_block.m -text
