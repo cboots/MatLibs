@@ -82,6 +82,7 @@ Learning/SVMs/libsvm/texput.log -text
 Learning/confusion.m -text
 Learning/make_xval_partition.m -text
 Learning/rank_error.m -text
+Math/gauss2d.m -text
 Path[!!-~]Planning/astar.m -text
 Path[!!-~]Planning/meam620utils.jar -text
 Rotations/HTInv.m -text
