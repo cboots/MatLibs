@@ -107,5 +107,6 @@ Utils/File/sloc.m -text
 Utils/File/slocDir.m -text
 Utils/String[!!-~]Functions/sec2timestr.m -text
 Utils/String[!!-~]Functions/strjoin.m -text
+Utils/datetimestring.m -text
 Utils/propval.m -text
 Utils/range_limit.m -text
