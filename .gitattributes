@@ -15,6 +15,7 @@ Figures/Graphics/plot_arrow.m -text
 Figures/Graphics/plot_block.m -text
 Figures/Graphics/plot_circle.m -text
 Figures/Graphics/plot_pieslice.m -text
+Figures/Graphics/plot_quad.m -text
 Figures/display_error.m -text
 Figures/fill_container.m -text
 Figures/fit_container.m -text
