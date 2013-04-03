@@ -21,6 +21,7 @@ Figures/fill_container.m -text
 Figures/fit_container.m -text
 Figures/hide_tick_labels.m -text
 Figures/maximize.m -text
+Figures/plot_hough_results.m -text
 Figures/plotnumeric.m -text
 Figures/rotplot.m -text
 Filtering/lpf_comp.m -text
@@ -29,8 +30,14 @@ IMU[!!-~]Tools/gyroupdate.m -text
 IMU[!!-~]Tools/plot_imu_data.m -text
 IMU[!!-~]Tools/rpy2rvec.m -text
 Image[!!-~]Processing/alphamask.m -text
+Image[!!-~]Processing/circle_mask.m -text
+Image[!!-~]Processing/extract_window.m -text
+Image[!!-~]Processing/gaussblur.m -text
 Image[!!-~]Processing/load_jpg.m -text
 Image[!!-~]Processing/load_png.m -text
+Image[!!-~]Processing/ring_mask.m -text
+Image[!!-~]Processing/transform_centered_peaks.m -text
+Image[!!-~]Processing/windowed_rect_hough.m -text
 Learning/Clustering/mykmeans.m -text
 Learning/Decision[!!-~]Trees/binary_entropy.m -text
 Learning/Decision[!!-~]Trees/calc_dt_error.m -text
@@ -83,9 +90,14 @@ Learning/SVMs/libsvm/texput.log -text
 Learning/confusion.m -text
 Learning/make_xval_partition.m -text
 Learning/rank_error.m -text
+Math/dtor.m -text
 Math/gauss2d.m -text
+Math/iseven.m -text
+Math/isodd.m -text
 Math/pseudo_inv.m -text
+Math/rtod.m -text
 Path[!!-~]Planning/astar.m -text
+Path[!!-~]Planning/dijkstragraph.m -text
 Path[!!-~]Planning/meam620utils.jar -text
 Rotations/HTInv.m -text
 Rotations/Quat2Vect.m -text
