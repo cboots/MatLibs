@@ -21,6 +21,7 @@ Figures/fill_container.m -text
 Figures/fit_container.m -text
 Figures/hide_tick_labels.m -text
 Figures/maximize.m -text
+Figures/plot_edges.m -text
 Figures/plot_hough_results.m -text
 Figures/plotnumeric.m -text
 Figures/rotplot.m -text
