@@ -10,7 +10,7 @@ windowring = ring_mask(Dmin, Dmax);
 dtheta = 180/(4/3*Dmax);
 drho=sqrt(2)/(4/3);
 
-Tc = 0.5*Dmin;
+Tc = 0.75*Dmin;
 Ttheta = 10;
 Trho = 20;
 Talpha = 10;
@@ -30,7 +30,9 @@ for xc=Xrange
 %         plot_hough_results(window, H, T, R, NPeaks, Tc);
         
         P  = houghpeaks(H,NPeaks,'threshold',Tc);
-        
+        if(numel(P) == 0)
+            continue;
+        end
         windowxc = round(size(window,2)/2);
         windowyc = round(size(window,1)/2);
         [rhos thetas] = transform_centered_peaks(P, R, T, windowxc, windowyc);
@@ -53,6 +55,7 @@ for xc=Xrange
         
         [pk pl] = find(triu(pairs,1));
         %Combine pairs into superpeaks
+        Combined_C = (C_r_t(pk)+C_r_t(pl));
         alpha = (thetas(pk)+thetas(pl))/2;
         csi = abs(rhos(pk)-rhos(pl))/2;
         
@@ -70,6 +73,7 @@ for xc=Xrange
                 rect.width = 2*csi(ak(i));
                 rect.height = 2*csi(al(i));
                 rect.orientation = alpha(ak(i));
+                rect.count = Combined_C(ak(i))+Combined_C(al(i));
                 Rects = [Rects {rect}];
             end
         end

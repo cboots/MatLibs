@@ -94,6 +94,7 @@ Learning/rank_error.m -text
 Math/dtor.m -text
 Math/gauss2d.m -text
 Math/iseven.m -text
+Math/isinrect.m -text
 Math/isodd.m -text
 Math/pseudo_inv.m -text
 Math/rtod.m -text
