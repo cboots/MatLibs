@@ -1,7 +1,7 @@
 %%drawGaussian3(mu, Cov, alph, colori)
 % Draws a guassian ellipsoid in 3D indicating the 1 Sigma distance (as determined by 'Cov')
 % centered at mean 'mu' with color 'colori' and transparency 'alpha'
-function drawGaussian3(mu, Cov, alpha, colori)
+function drawGaussian3(mu, Cov, alph, colori)
 
 [U,L] = eig(Cov);
 % L: eigenvalue diagonal matrix
@@ -29,6 +29,6 @@ z = data(2*n+1:end,:)+mu(3);
 % now plot the rotated ellipse
 sc = surf(x,y,z, repmat(colori, size(z)));
 % shading(sc, 'flat');
-alpha(sc, alpha)
+alpha(sc, alph)
 
 end
